@@ -4,4 +4,4 @@ and tried to make this site so beautifull..
 
 Here is my site link below and you guys can chackout this shit...
 
-https://team-stricker.netlify.app/
+https://player-selection01.netlify.app/
